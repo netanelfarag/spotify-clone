@@ -11,8 +11,8 @@ export default function App() {
     <div>
       <Nav />
       <main>
-        <Section1 />
         <Section2 />
+        <Section1 />
       </main>
     </div>
   );
