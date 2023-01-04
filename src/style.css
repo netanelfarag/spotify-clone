@@ -28,7 +28,9 @@ body {
 .nav {
   display: flex;
   align-items: center;
-  padding-inline: 400px;
+  /* padding-inline: 400px; */
+  width: 70%;
+  margin-inline: auto;
 }
 
 .logo {
@@ -55,7 +57,9 @@ body {
 
 .wrap1 {
   padding-block: 150px;
-  padding-inline: 440px;
+  /* padding-inline: 440px; */
+  width: 60%;
+  margin-inline: auto;
 }
 
 .wrap1 * {
